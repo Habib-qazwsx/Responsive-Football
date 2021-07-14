@@ -106,12 +106,8 @@ span a {
 }
 @media (max-width: 768px){
   .headingContainer {
-    /* display: flex; */
-    /* justify-content: space-between; */
     width: 750px;
-    /* height: 100px; */
     margin-left: 5px;
-    /* align-items: center; */
   }
   .firstSection {
     background-color: rgb(0, 0, 196);
@@ -124,12 +120,8 @@ span a {
 }
 @media (max-width: 480px) {
   .headingContainer {
-    /* display: flex; */
-    /* justify-content: space-between; */
     width: 460px;
-    /* height: 100px; */
     margin-left: 5px;
-    /* align-items: center; */
   }
   .h1{
     font-size: 2.5rem;
